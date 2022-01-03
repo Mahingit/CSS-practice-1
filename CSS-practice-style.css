@@ -1,0 +1,33 @@
+p{
+    text-align: justify;
+    background-color: slategrey;
+}
+
+small{
+    color: red;
+}
+
+.head3{
+    color: yellowgreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+    border-radius: 20px;
+    width: max-content;
+    padding: 0.2em 0.2em 0.2em 0.2em ;
+
+}
+
+.para{
+    border: dashed rgb(247, 202, 3);
+    padding: .2em .2em .2em .2em;
+    margin: 10px;
+    border-radius: 10px;
+    border-left: maroon solid .5em;
+    width: 70%;
+
+}
+
+.responsive{
+    max-width: 100%;
+    height: auto;
+}
